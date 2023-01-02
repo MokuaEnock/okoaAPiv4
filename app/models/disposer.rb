@@ -1,2 +1,0 @@
-class Disposer < ApplicationRecord
-end
