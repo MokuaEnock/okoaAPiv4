@@ -1,0 +1,2 @@
+class Disposer < ApplicationRecord
+end

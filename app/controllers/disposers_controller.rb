@@ -1,0 +1,2 @@
+class DisposersController < ApplicationController
+end
